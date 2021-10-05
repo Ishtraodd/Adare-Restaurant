@@ -1,29 +1,52 @@
 body {
-    background-color: #2F3035;
+  background-color: #2f3035;
 }
 
-.container{
-    margin-right: auto;
-    margin-left: auto;
-    width: 1024px;
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 1024px;
 }
 
 header {
-    background-color: blue;
-    height: 118px;
+  background-color: blue;
+  height: 118px;
+  text-align: center;
 }
 
 nav {
-    background-color: red;
-    height: 40px;
+  background-color: red;
+  height: 40px;
 }
 
 main {
-    background-color: orange;
-    height: 400px;
+  background-color: #2f3035;
+  height: 400px;
+  text-align: center;
+  padding-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
 }
 
 footer {
-    background-color: greenyellow;
-    height: 100px;
+  background-color: greenyellow;
+  height: 100px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 84px;
+}
+
+a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
 }
